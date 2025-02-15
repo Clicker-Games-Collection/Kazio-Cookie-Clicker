@@ -8,6 +8,22 @@ Enter the enchanting realm of **Kaizo Cookie Clicker (Kaizo Cookies)**, an addic
 
 ![Kaizo Cookie Clicker](https://game.playclickergames.org/202502152229825.png)
 
+## Other Popular Clicker Games
+- [Spacebar Clicker](https://playclickergames.org/game/spacebar-clicker)
+- [Whopper Clicker](https://playclickergames.org/game/whopper-clicker)
+- [Duck Duck Clicker](https://playclickergames.org/game/duck-duck-clicker)
+- [Duck Duck Clicker 3D](https://playclickergames.org/game/duck-duck-clicker-3d)
+- [Candy Clicker](https://playclickergames.org/game/candy-clicker)
+- [Candy Clicker 2](https://playclickergames.org/game/candy-clicker-2)
+- [Bear Clicker](https://playclickergames.org/game/bear-clicker)
+- [Chill Guy Clicker](https://playclickergames.org/game/chill-guy-clicker)
+- [Kiwi Clicker](https://playclickergames.org/game/kiwi-clicker)
+- [Roblox Clicker](https://playclickergames.org/game/roblox-clicker)
+- [Planet Clicker](https://playclickergames.org/game/planet-clicker)
+- [Cookie Clicker](https://playclickergames.org/game/cookie-clicker)
+- [Easter Clicker](https://playclickergames.org/game/easter-clicker)
+- [Fruit Clicker](https://playclickergames.org/game/fruit-clicker)
+
 ## Getting Started
 
 Your journey begins with a colossal cookie at the center of the screen. Click it to start accumulating cookies and watch your total soar! Each click increases your cookie count, enabling you to make strategic upgrades for enhanced production.
